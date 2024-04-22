@@ -1,0 +1,16 @@
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.GlobalUsings.g.cs
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.csproj.AssemblyReference.cache
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.AssemblyInfoInputs.cache
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.AssemblyInfo.cs
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.csproj.CoreCompileInputs.cache
+C:\SV\GB\control_work1\cw1\bin\Debug\net6.0\cw1.exe
+C:\SV\GB\control_work1\cw1\bin\Debug\net6.0\cw1.deps.json
+C:\SV\GB\control_work1\cw1\bin\Debug\net6.0\cw1.runtimeconfig.json
+C:\SV\GB\control_work1\cw1\bin\Debug\net6.0\cw1.dll
+C:\SV\GB\control_work1\cw1\bin\Debug\net6.0\ref\cw1.dll
+C:\SV\GB\control_work1\cw1\bin\Debug\net6.0\cw1.pdb
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.dll
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\ref\cw1.dll
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.pdb
+C:\SV\GB\control_work1\cw1\obj\Debug\net6.0\cw1.genruntimeconfig.cache
